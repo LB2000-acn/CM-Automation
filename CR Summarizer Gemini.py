@@ -1,7 +1,3 @@
-Got it, just the Python code for the Streamlit app. Here it is:
-
-Python
-
 import streamlit as st
 import PyPDF2
 import io
